@@ -14,5 +14,5 @@
 * Середовище розробки Visual Studio Code
 
 ## Опублікований продукт
-Інсталяційний пакет створеної гри можна завантажити з магазину
-[intch.io](http://itch.io)
+Даний продукт можна знайти перейшовши за посиланням
+https://hadiachstomatcab.000webhostapp.com/index.php#feedback
