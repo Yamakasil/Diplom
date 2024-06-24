@@ -282,8 +282,8 @@
                 <li><a href="#feedback">Відгуки</a></li>
             </ul>
             <div class="social-links">
-                <a href="https://www.instagram.com/zhabk018/" target="_blank"><i class='bx bxl-instagram'></i></a>
-                <a href="https://t.me/Yamakasill" target="_blank"><i class='bx bxl-telegram'></i></a>
+                <a href="https://www.instagram.com/ms.zhabko82/" target="_blank"><i class='bx bxl-instagram'></i></a>
+                <a href="https://t.me/mszhabko4421" target="_blank"><i class='bx bxl-telegram'></i></a>
                 <a href="https://contacts.google.com/person/c7265750643864718418" target="_blank"><i
                         class='bx bxl-gmail'></i></a>
             </div>
@@ -294,7 +294,7 @@
                 © 2024 Ваше здоров'я - наша турбота.
             </p>
             <div class="links">
-                <a href="tel:+380506126648">+380506126648</a>
+                <a href="tel:+380505980444">+380505980444</a>
                 <a href="https://contacts.google.com/person/c7265750643864718418"
                     target="_blank">deniszhabko000@gmail.com</a>
                 <a href="#">10:00-20:00</a>
